@@ -1,0 +1,8 @@
+{
+  "short_name": "GPT-3",
+  "name": "Best Site About GPT-3",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
